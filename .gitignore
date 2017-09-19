@@ -8,3 +8,7 @@ model_sel/\.DS_Store
 mult_lin_reg/lab_robot_calib_complete\.ipynb
 
 model_sel/lab_neural_complete\.ipynb
+
+logistic/breast_cancer_complete\.ipynb
+
+logistic/\.ipynb_checkpoints/

@@ -9,3 +9,9 @@ svm/Xlet\.p
 neural/instrument_dataset/
 
 neural/SopSax\.Vib\.pp\.C6Eb6\.aiff
+
+cnn/test/
+
+cnn/train/
+
+cnn/full_size
